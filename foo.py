@@ -10,6 +10,7 @@ def functionB():
     print("Function B {}".format(math.sqrt(100)))
 
 print('git')
+print('from side_branch')
 print('change from mac')
 print("before __name__ guard")
 if __name__ == '__main__':
